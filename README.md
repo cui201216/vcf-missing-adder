@@ -97,7 +97,7 @@ chr1    103     .       T       A       .       PASS    .       GT      0/1     
 #CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO    FORMAT  Sample1 Sample2
 chr1    101     .       A       T       .       PASS    .       GT      0/1     1/1
 chr1    102     .       G       C       .       PASS    .       GT      0/0     ./.
-chr1    103     .       T       A       .       PASS    .       GT      ./.
+chr1    103     .       T       A       .       PASS    .       GT      ./.     1/1
 ```
 
 ## 错误处理
